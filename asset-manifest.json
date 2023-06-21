@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newport/static/css/main.fa6b4cb2.css",
+    "main.js": "/newport/static/js/main.b76fe57d.js",
+    "static/media/clip.webm": "/newport/static/media/clip.b20bcc875a864befbfd9.webm",
+    "static/media/me2.jpg": "/newport/static/media/me2.96a378affec3a0d82ed5.jpg",
+    "static/media/me.jpg.jpeg": "/newport/static/media/me.jpg.0a442e69b84904c35055.jpeg",
+    "index.html": "/newport/index.html",
+    "main.fa6b4cb2.css.map": "/newport/static/css/main.fa6b4cb2.css.map",
+    "main.b76fe57d.js.map": "/newport/static/js/main.b76fe57d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa6b4cb2.css",
+    "static/js/main.b76fe57d.js"
+  ]
+}
